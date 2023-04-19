@@ -1,1 +1,3 @@
 Todo Web Application with React + Typescript
+
+For Run Test (npm run test -- -u) type this in terminal...
